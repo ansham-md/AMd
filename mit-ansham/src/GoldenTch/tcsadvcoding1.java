@@ -1,5 +1,6 @@
 package GoldenTch;
 import java.util.*;
+#inna thala
 class checker
 {
 	public int nineck(int i)
